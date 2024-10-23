@@ -1,0 +1,10 @@
+{
+    "payment_method": "upi", 
+    "amount": 100.00,
+    "upi_id": "example@upi",  
+    "phone_number": "1234567890", 
+    "card_number": "4111111111111111", 
+    "expiry_date": "12/25", 
+    "cvv": "123", 
+    "wallet_address": "0xYourCryptoWallet" 
+}

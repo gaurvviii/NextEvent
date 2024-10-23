@@ -1,0 +1,23 @@
+event_id,event_name,event_date,location,price,category,student_discount,recommended,user_id,user_rating,loyalty_points,pay_later,wallet_balance,loyalty_earn_rate,loyalty_cost,ticket_status
+1,Concert A,2024-10-30,New York,100,Music,True,False,101,4,10,True,50,1,50,valid
+2,Movie B,2024-11-01,Los Angeles,15,Movies,False,True,102,5,5,False,10,0.5,5,valid
+3,Sporting Event C,2024-11-05,Chicago,75,Sports,True,False,103,3,15,True,100,0.75,20,valid
+4,Concert D,2024-11-10,New York,120,Music,False,True,101,5,20,False,80,1.2,60,valid
+5,Movie E,2024-11-15,San Francisco,12,Movies,True,True,102,4,8,True,30,0.3,3,missed
+6,Theater Play F,2024-11-20,Los Angeles,50,Theater,False,False,104,3,12,True,20,0.5,10,valid
+7,Concert G,2024-11-25,Las Vegas,200,Music,True,True,101,4,15,False,150,1.5,30,valid
+8,Movie H,2024-12-01,Miami,20,Movies,True,True,105,5,7,True,40,0.2,4,valid
+9,Sporting Event I,2024-12-05,Boston,60,Sports,False,False,102,3,18,False,25,0.6,12,missed
+10,Concert J,2024-12-10,Chicago,80,Music,True,True,106,4,14,True,55,0.8,15,valid
+11,Movie K,2024-12-15,San Francisco,18,Movies,False,False,107,5,5,True,30,0.4,6,valid
+12,Theater Play L,2024-12-20,New York,70,Theater,True,False,104,3,10,False,50,0.5,5,valid
+13,Concert M,2025-01-05,New York,90,Music,False,True,108,4,20,True,60,1.0,40,missed
+14,Movie N,2025-01-10,Los Angeles,22,Movies,True,True,109,5,6,True,35,0.25,5,valid
+15,Sporting Event O,2025-01-15,Miami,85,Sports,False,False,103,4,18,False,40,0.65,20,valid
+16,Concert P,2025-01-20,Boston,150,Music,True,True,101,3,30,True,70,1.3,50,valid
+17,Movie Q,2025-01-25,San Francisco,30,Movies,False,False,110,5,8,True,15,0.3,4,valid
+18,Theater Play R,2025-02-01,Chicago,45,Theater,True,True,104,4,12,False,55,0.5,10,missed
+19,Concert S,2025-02-05,New York,110,Music,False,False,111,4,25,True,80,1.1,35,valid
+20,Movie T,2025-02-10,Los Angeles,14,Movies,True,True,112,3,7,True,20,0.4,3,valid
+
+
